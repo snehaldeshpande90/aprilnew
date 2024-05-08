@@ -22,6 +22,7 @@ public class TestNG1 {
 	
 	{
 		System.out.println("Test");
+		System.out.println("Test");
 	}
 	@AfterMethod
 	public void afterMethod()
