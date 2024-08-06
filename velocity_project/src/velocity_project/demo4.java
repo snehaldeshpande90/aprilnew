@@ -8,7 +8,7 @@ public class demo4 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("a="+a);
-		System.out.println("demo.a="+demo.a);
+		System.out.println("demo4.a="+demo4.a);
 		 
 		demo4 x=new demo4();
 		System.out.println("x.b="+x.b);

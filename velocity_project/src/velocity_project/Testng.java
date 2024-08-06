@@ -1,5 +1,7 @@
 package velocity_project;
 
+import org.testng.annotations.BeforeClass;
+
 public class Testng {
 
 	

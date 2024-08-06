@@ -2,7 +2,7 @@ package velocity_project;
 
 public class constuc {
 
-	public static void main(String[] args) {
+	
 		// TODO Auto-generated method stub
 		//no user define constructor present
 		//i.e. defaultconstructor will add at compilation
@@ -15,4 +15,4 @@ public class constuc {
 
 	}
 
-}
+

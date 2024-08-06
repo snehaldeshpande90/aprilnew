@@ -6,7 +6,7 @@ public class Execution {
 		// TODO Auto-generated method stub
 		Delhi a=new Delhi();
 		Nagpur b=a.beta();
-		Pune c=b.alpha();
+		pune c=b.alpha();
 		c.test();
 		// a.beta().alpha().test();
 		
